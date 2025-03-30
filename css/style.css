@@ -1,0 +1,53 @@
+.container {
+  width: 100%;
+  height: 190px;
+  background-color: #355876;
+  justify-content: center;
+  margin-bottom: 0 auto;
+}
+
+.center-element {
+  text-align: left;
+  margin: 0 auto;
+  width: 51%;
+}
+
+body {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 20px;
+  color: #2A2A2A;
+}
+
+.title {
+  font-size: 43.1123px;
+  margin: 16px 0px 0px;
+}
+
+.subtitle {
+  color: #757575;
+  font-size: 24.1123px;
+}
+
+.link{
+  color: #757575;
+  display: inline-block;
+  font-size: 14px;
+  padding: 0px 0px 2px;
+  text-decoration: none;
+  margin-top: 55px;
+}
+
+.link:hover{
+  color: #757575;
+  text-decoration: underline;
+}
+
+.index a{
+  color: #2A2A2A;
+  text-decoration: none;
+}
+
+.index a:hover { 
+  color: #2A2A2A; 
+  text-decoration: underline;
+}
